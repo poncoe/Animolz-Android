@@ -4,10 +4,8 @@ import android.app.AlertDialog
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.text.TextUtils
-import android.view.View
 import android.view.View.GONE
 import android.view.View.VISIBLE
-import android.widget.RadioButton
 import android.widget.Toast
 import id.coedotzltdv.animolz.databinding.ActivityMainBinding
 
@@ -38,9 +36,6 @@ class MainActivity : AppCompatActivity() {
         val nama = binding.namaInp.text.toString()
         val namaHewan = binding.namaHewanInp.text.toString()
         val selectedId = binding.radioGroup.checkedRadioButtonId
-
-        val isKucing = selectedId == R.id.kucingRadioButton
-        val isAnjing = selectedId == R.id.anjingRadioButton
 
         // menggabungkan data hewan
         val animolzKucing =
