@@ -1,3 +1,17 @@
 <resources>
     <string name="app_name">Animolz</string>
+    <string name="intro">Halo, Selamat datang di Aplikasi Animolz. Silahkan masukan data anda.\n</string>
+    <string name="proses">Proses</string>
+    <string name="reset">Reset</string>
+    <string name="txtNama">Nama Anda</string>
+    <string name="txtNamaHewan">Nama Peliharaan Anda</string>
+    <string name="jenisHewan">Jenis Peliharaan</string>
+    <string name="kucing">Kucing</string>
+    <string name="anjing">Anjing</string>
+    <string name="nama_invalid">Nama Tidak Boleh Kosong!</string>
+    <string name="namaHewan_invalid">Nama Hewan Tidak Boleh Kosong!</string>
+    <string name="jenis_invalid">Jenis Tidak Boleh Kosong!</string>
+    <string name="exit_dialog">Apakah anda yakin ingin keluar dari aplikasi Animolz?</string>
+    <string name="exit_ya">Ya</string>
+    <string name="exit_gak">Tidak</string>
 </resources>
