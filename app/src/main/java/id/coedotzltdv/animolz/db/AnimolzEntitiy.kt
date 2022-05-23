@@ -7,8 +7,8 @@ import androidx.room.PrimaryKey
 data class AnimolzEntitiy(
     @PrimaryKey(autoGenerate = true)
     var id: Long = 0L,
+    var tanggal: Long = System.currentTimeMillis(),
     var namaPemilik: String,
     var namaHewan: String,
     var isJenis: Boolean,
-    var tanggal: Long = System.currentTimeMillis(),
 )
