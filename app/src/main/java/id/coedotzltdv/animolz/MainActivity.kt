@@ -1,6 +1,5 @@
 package id.coedotzltdv.animolz
 
-import android.app.AlertDialog
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.text.TextUtils
@@ -98,28 +97,17 @@ class MainActivity : AppCompatActivity() {
     }
 
     // membuat dialog jika ingin keluar dari aplikasi
+    var exitTime: Long = 0
     private fun DialogExit() {
-        val builder = AlertDialog.Builder(this)
-        builder.setTitle(R.string.app_name)
-        builder.setMessage(R.string.exit_dialog)
-
-        // jika user memilih iya
-        builder.setPositiveButton(R.string.exit_ya) { dialog, which ->
-            // mengakhiri program
-            this.finish()
+        if (System.currentTimeMillis() - exitTime > 2000) {
+            Toast.makeText(this, R.string.press_again_exit_app, Toast.LENGTH_SHORT).show()
+            exitTime = System.currentTimeMillis()
+        } else {
+            finish()
         }
-
-        // jika user memilih tidak
-        builder.setNegativeButton(R.string.exit_gak) { dialog, which ->
-            // membatalkan keluar dan menghilangkan dialog keluar
-            dialog.cancel()
-        }
-
-        // menampilkan sebuah dialog
-        builder.show()
     }
 
-    // method kembali, dan jika dipencet (tombol kembali dihalaman utama) akan memanggil si dialog keluar
+    // method kembali, dan jika dipencet (tombol kembali dihalaman utama) akan memanggil si dialog toast keluar
     override fun onBackPressed() {
         DialogExit()
     }
