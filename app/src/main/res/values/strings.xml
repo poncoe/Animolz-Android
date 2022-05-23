@@ -15,4 +15,7 @@
     <string name="exit_ya">Ya</string>
     <string name="exit_gak">Tidak</string>
     <string name="press_again_exit_app">tekan kembali untuk keluar</string>
+    <string name="nav_home">Pendataan Hewan</string>
+    <string name="nav_list">Daftar Hewan</string>
+    <string name="nav_about">Tentang</string>
 </resources>
