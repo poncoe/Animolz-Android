@@ -44,5 +44,14 @@
             android:layout_gravity="center"
             android:text="@string/btn_bagikan"/>
 
+        <Button
+            android:id="@+id/btn_isenk"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingRight="60dp"
+            android:paddingLeft="60dp"
+            android:layout_gravity="center"
+            android:text="@string/btn_isenk"/>
+
     </LinearLayout>
 </ScrollView>

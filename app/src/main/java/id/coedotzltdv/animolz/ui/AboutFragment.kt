@@ -32,6 +32,12 @@ class AboutFragment: Fragment() {
             sharingIntent.putExtra(Intent.EXTRA_TEXT, "Animolz Aplikasi Hewan!\n\nUnduh Sekarang!\nhttp://play.google.com/store/apps/details?id=id.coedotzltdv.animolz")
             requireActivity().startActivity(Intent.createChooser(sharingIntent, "Bagikan Melalui"))
         }
+
+        binding.btnIsenk.setOnClickListener {
+            val yadah = Intent(context, IsenkDoank::class.java)
+            startActivity(yadah)
+        }
+
     }
 
 }
