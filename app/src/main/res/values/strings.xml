@@ -20,5 +20,5 @@
     <string name="nav_about">Tentang</string>
     <string name="about_mi">Arief Wardhana</string>
     <string name="tentang_aplikasi">Tentang Aplikasi</string>
-    <string name="btn_saran"><![CDATA[Kritik & Saran]]></string>
+    <string name="btn_bagikan">Bagikan Aplikasi Ini</string>
 </resources>
