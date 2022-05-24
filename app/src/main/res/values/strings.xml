@@ -18,4 +18,7 @@
     <string name="nav_home">Pendataan Hewan</string>
     <string name="nav_list">Daftar Hewan</string>
     <string name="nav_about">Tentang</string>
+    <string name="about_mi">Arief Wardhana</string>
+    <string name="tentang_aplikasi">Tentang Aplikasi</string>
+    <string name="btn_saran"><![CDATA[Kritik & Saran]]></string>
 </resources>
