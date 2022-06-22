@@ -12,6 +12,12 @@
         tools:layout="@layout/fragment_pendataan" />
 
     <fragment
+        android:id="@+id/navigation_article"
+        android:name="id.coedotzltdv.animolz.ui.ArticleActivity"
+        android:label="@string/nav_article"
+        tools:layout="@layout/fragment_listdata" /> NOFIX
+
+    <fragment
         android:id="@+id/navigation_list"
         android:name="id.coedotzltdv.animolz.ui.ListDataFragment"
         android:label="@string/nav_list"

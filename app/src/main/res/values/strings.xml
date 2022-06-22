@@ -39,4 +39,5 @@
     <string name="batal">Batal</string>
     <string name="konfirmasi_hapus">Hapus Semua Data?</string>
     <string name="hapus_histori">Hapus Data</string>
+    <string name="nav_article">Artikel</string>
 </resources>
