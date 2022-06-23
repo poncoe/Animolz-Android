@@ -16,7 +16,7 @@
     <string name="exit_gak">Tidak</string>
     <string name="press_again_exit_app">tekan kembali untuk keluar</string>
     <string name="nav_home">Pendataan Hewan</string>
-    <string name="nav_list">Daftar Hewan</string>
+    <string name="nav_list">Riwayat Data Hewan</string>
     <string name="nav_about">Tentang</string>
     <string name="about_mi">Arief Wardhana</string>
     <string name="tentang_aplikasi">Tentang Aplikasi</string>
@@ -39,4 +39,5 @@
     <string name="batal">Batal</string>
     <string name="konfirmasi_hapus">Hapus Semua Data?</string>
     <string name="hapus_histori">Hapus Data</string>
+    <string name="nav_article">Artikel</string>
 </resources>
