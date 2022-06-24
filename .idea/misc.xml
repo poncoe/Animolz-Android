@@ -3,10 +3,16 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Users/Administrator/StudioProjects/Animolz-Android/app/src/main/res/layout/activity_isenkdoank.xml" value="0.36666666666666664" />
-        <entry key="..\:/Users/Administrator/StudioProjects/Animolz-Android/app/src/main/res/layout/activity_main.xml" value="0.36666666666666664" />
-        <entry key="..\:/Users/Administrator/StudioProjects/Animolz-Android/app/src/main/res/menu/bottom_nav_menu.xml" value="0.36666666666666664" />
-        <entry key="..\:/Users/Administrator/StudioProjects/Animolz-Android/app/src/main/res/menu/list_menu.xml" value="0.36666666666666664" />
+        <entry key="..\:/@ kuliah/Semester 4/Pemrograman Untuk Perangkat Bergerak 1/Animolz-Android/app/src/main/res/layout/activity_detail.xml" value="0.2484375" />
+        <entry key="..\:/@ kuliah/Semester 4/Pemrograman Untuk Perangkat Bergerak 1/Animolz-Android/app/src/main/res/layout/activity_main.xml" value="0.2484375" />
+        <entry key="..\:/@ kuliah/Semester 4/Pemrograman Untuk Perangkat Bergerak 1/Animolz-Android/app/src/main/res/layout/fragment_article.xml" value="0.2484375" />
+        <entry key="..\:/@ kuliah/Semester 4/Pemrograman Untuk Perangkat Bergerak 1/Animolz-Android/app/src/main/res/layout/fragment_listarticle.xml" value="0.2484375" />
+        <entry key="..\:/@ kuliah/Semester 4/Pemrograman Untuk Perangkat Bergerak 1/Animolz-Android/app/src/main/res/layout/fragment_listdata.xml" value="0.2484375" />
+        <entry key="..\:/@ kuliah/Semester 4/Pemrograman Untuk Perangkat Bergerak 1/Animolz-Android/app/src/main/res/layout/item_list_article.xml" value="0.2484375" />
+        <entry key="..\:/@ kuliah/Semester 4/Pemrograman Untuk Perangkat Bergerak 1/Animolz-Android/app/src/main/res/layout/loading_shimmer_list.xml" value="0.2484375" />
+        <entry key="..\:/@ kuliah/Semester 4/Pemrograman Untuk Perangkat Bergerak 1/Animolz-Android/app/src/main/res/menu/bottom_nav_menu.xml" value="0.2484375" />
+        <entry key="..\:/@ kuliah/Semester 4/Pemrograman Untuk Perangkat Bergerak 1/Animolz-Android/app/src/main/res/menu/list_menu.xml" value="0.2484375" />
+        <entry key="..\:/@ kuliah/Semester 4/Pemrograman Untuk Perangkat Bergerak 1/Animolz-Android/app/src/main/res/menu/main_menu.xml" value="0.2484375" />
         <entry key="app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1785" />
         <entry key="app/src/main/res/drawable/circle_background.xml" value="0.1415" />
         <entry key="app/src/main/res/drawable/ic_baseline_delete_forever_24.xml" value="0.1415" />

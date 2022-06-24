@@ -1,8 +1,9 @@
-package id.coedotzltdv.animolz
+package id.coedotzltdv.animolz.core
 
 import android.content.Context
 import android.widget.ImageView
 import com.squareup.picasso.Picasso
+import id.coedotzltdv.animolz.R
 
 object PicassoClient {
     fun downloadImage(c: Context?, url: String?, img: ImageView?) {
