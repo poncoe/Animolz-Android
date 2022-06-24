@@ -1,4 +1,4 @@
-package id.coedotzltdv.animolz
+package id.coedotzltdv.animolz.core
 
 import android.content.Context
 import androidx.datastore.core.DataStore
