@@ -8,12 +8,12 @@ import retrofit2.http.GET
 
 interface ApiArtikel {
 
-    @GET("data-api-buku.php")
+    @GET("data-json-meonk.php")
     fun getArtikel() : Call<List<Artikel>>
 
     companion object {
 
-        var BASE_URL = "https://proyek.luckytruedev.com/yuubaca/public/api/"
+        var BASE_URL = "https://api.luckytruedev.com/ltdv-admin/admin2/"
 
         fun create() : ApiArtikel {
 

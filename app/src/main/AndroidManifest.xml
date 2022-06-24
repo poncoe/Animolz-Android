@@ -36,6 +36,9 @@
             android:name=".MainActivity"
             android:screenOrientation="portrait" />
         <activity
+            android:name=".ui.DetailActivity"
+            android:screenOrientation="portrait" />
+        <activity
             android:name=".ui.IsenkDoank"
             android:label="Yoi Mamen"
             android:screenOrientation="portrait" />

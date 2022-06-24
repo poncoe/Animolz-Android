@@ -40,4 +40,6 @@
     <string name="konfirmasi_hapus">Hapus Semua Data?</string>
     <string name="hapus_histori">Hapus Data</string>
     <string name="nav_article">Artikel</string>
+    <string name="failed_load_data_api">Gagal Menampilkan Data!</string>
+    <string name="action_search">Search</string>
 </resources>
